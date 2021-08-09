@@ -1,0 +1,1 @@
+import{r as t,o as e,b as o,d as n,w as r,n as a}from"./vendor.f072c816.js";const s={name:"Index",components:{},created(){}},u=a("Go About");s.render=function(a,s,d,c,l,p){const f=t("v-test"),i=t("el-button");return e(),o("div",null,[n(f),n(i,{type:"primary",onClick:s[1]||(s[1]=t=>a.$router.push("/about"))},{default:r((()=>[u])),_:1})])};export{s as default};

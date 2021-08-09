@@ -1,0 +1,1 @@
+import{o,b as r,d as t}from"./vendor.f072c816.js";const e={};e.render=function(e,n,a,c,d,i){return o(),r("div",null,[t("div",{onClick:n[1]||(n[1]=o=>e.$router.back(-1)),title:"About"},"back")])};export{e as default};
