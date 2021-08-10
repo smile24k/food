@@ -1,0 +1,1 @@
+import{x as e,y as n,b as o,d as a,v as t,o as r}from"./vendor.809e12b2.js";const c=e({setup(){const e=n();return{goBack:()=>{e.back(-1)}}}});c.render=function(e,n,c,s,l,u){const d=t("el-page-header");return r(),o("div",null,[a(d,{icon:"el-icon-arrow-left",onBack:e.goBack,content:"详情页面",title:"返回"},null,8,["onBack"])])};export{c as default};
