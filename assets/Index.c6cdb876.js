@@ -1,0 +1,1 @@
+import{_ as a}from"./index.63039e53.js";import{J as e,K as s,b as o,E as d,o as n}from"./vendor.0f5a02ad.js";const t={name:"Index",components:{Menu:a},setup(){}},r=d("data-v-6b096be9");e("data-v-6b096be9");const b={class:"index"};s();const c=r(((a,e,s,d,t,r)=>(n(),o("div",b))));t.render=c,t.__scopeId="data-v-6b096be9";export{t as default};
